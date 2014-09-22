@@ -7,6 +7,10 @@ public class SoloNoble {
 	public static boolean solutionTrouvee = false;
 	public static LinkedList<Grille> solutionLK = new LinkedList<Grille>();
 
+	/**
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Grille gr = new Grille(5, 5);
